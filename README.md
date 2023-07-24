@@ -17,18 +17,14 @@ As a lifelong learner, my aspirations in the field of programming go beyond mast
 Furthermore, I aspire to be a mentor and guide for aspiring developers, encouraging them to pursue their passions and embrace challenges. I envision a future where technology is leveraged responsibly and ethically to bring about positive change, and I am committed to being a part of that transformation.
 
 
-<h1 align="center">
-Skills
-</h1>
+## Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,py,c,cs,html,css,sass,js,ts,react,vscode,eclipse" />
   </a>
 </p>
 
-<h1 align="center">
-Github Metrics
-</h1>
+## Github Metrics
 <div style="display: flex; justify-content: space-between;">
 
   <!-- Image on the Left -->

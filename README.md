@@ -26,6 +26,9 @@ Skills
   </a>
 </p>
 
+<h1 align="center">
+Github Metrics
+</h1>
 <div style="display: flex; justify-content: space-between;">
 
   <!-- Image on the Left -->

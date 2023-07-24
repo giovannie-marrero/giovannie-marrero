@@ -16,11 +16,8 @@ Skills
     Socials
 </h1>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/giovannie-marrero)
+[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/giovannie-marrero)&nbsp[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/giovannie-marrero-barreto/)&nbsp[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://giovanniemarrero.com/) 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/giovannie-marrero-barreto/)  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://giovanniemarrero.com/) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannie-marrero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 

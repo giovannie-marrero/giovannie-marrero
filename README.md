@@ -26,6 +26,21 @@ Skills
   </a>
 </p>
 
+<div style="display: flex; justify-content: space-between;">
+
+  <!-- Image on the Left -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannie-marrero&layout=compact" alt="Top Languages" />
+  </a>
+
+  <!-- Image on the Right -->
+  <a href="https://metrics.lecoq.io/giovannie-marrero">
+    <img src="https://metrics.lecoq.io/giovannie-marrero" alt="GitHub metrics" />
+  </a>
+
+</div>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannie-marrero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/giovannie-marrero)

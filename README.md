@@ -30,20 +30,16 @@ Skills
 
   <!-- Image on the Left -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannie-marrero&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannie-marrero&layout=compact" alt="Top Languages" width="400" />
   </a>
 
   <!-- Image on the Right -->
   <a href="https://metrics.lecoq.io/giovannie-marrero">
-    <img src="https://metrics.lecoq.io/giovannie-marrero" alt="GitHub metrics" />
+    <img src="https://metrics.lecoq.io/giovannie-marrero" alt="GitHub metrics" width="400" />
   </a>
 
 </div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannie-marrero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/giovannie-marrero)
 ## Get in Touch
 
 Thank you for taking the time to read about me! If you share similar interests or want to collaborate on exciting projects, I'd love to connect with you. Feel free to reach out via email at [giovannie.marrero@upr.com], and let's make the world of technology an even better place together.
